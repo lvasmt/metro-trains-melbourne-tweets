@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: metro_data
+    database: gcp-project
+    schema: analytics
+    tables:
+      - name: raw_metro_trains_twitter
+      - name: stg_metro_trains_twitter
