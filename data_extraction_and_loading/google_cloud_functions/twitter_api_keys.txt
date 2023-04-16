@@ -1,0 +1,5 @@
+{"api key":"<replace with your own api key>",
+"api key secret":"<replace with your own api key secret>",
+"bearer token":"<replace with your own brearer token",
+"access token":"<replace with your own access token>",
+"access token secret":"<replace with your own access token secret"}
