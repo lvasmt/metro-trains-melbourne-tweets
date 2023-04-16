@@ -1,5 +1,5 @@
 # metro-trains-melbourne-tweets
-A repo containing code used for the Metro Trains Melbourne Tweets analysis dashboard. 
+This is a reposiitory containing code used for the Metro Trains Melbourne Tweets analysis dashboard. 
 
 In this project, I built a data pipeline and a dashboard to visualise Metro Trains Melbourne’s Tweets and their contents.  The dashboard can be found in this link: https://lookerstudio.google.com/reporting/9b762e3d-fc56-4911-9ac7-a7a04c94d180. 
 
